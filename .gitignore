@@ -1,0 +1,27 @@
+# --- Ansys Electronics Desktop / HFSS generated data ---
+# Solution results: mesh, field solutions and convergence data
+*.aedtresults/
+*.aedt.results/
+# Lock files from an open or crashed session
+*.aedt.lock
+*.lock
+# Autosave copies
+*.aedt.auto
+*.auto
+# Batch and job information
+*.batchinfo
+*.batchinfo/
+# Solver scratch files
+*.asol
+*.q
+
+# --- Report screenshots (already embedded in REPORT.pdf) ---
+CAPTURAS/
+
+# --- Course material provided by the instructors (not redistributed) ---
+GUIA.pdf
+
+# --- OS and editor noise ---
+Thumbs.db
+desktop.ini
+.DS_Store
